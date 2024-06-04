@@ -5,11 +5,13 @@ Matlab_EIS_Fit builds an equivalent circuit based on the function handle to fit 
 
 **Matlab_EIS_Fit currently provides:**
 a simple API for fitting, predicting, and plotting impedance
+
 fit_EIS.m
 plot_EIS.m
 plot_fit _result.m
 
 **requires:**
->matlab 2019b
+ > matlab(> 2019b)
 
 **Examples**
+Please read the example.mlx document
